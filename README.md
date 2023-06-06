@@ -2,10 +2,8 @@
 
 Just a simple Roblox sound changer I made for my friends
 
-```
 > **Warning**
 > **Disclaimer:** Although nothing that this program does should cause any bans or issues, please still use at your own risk. I've been using the FPS unlocker and the custom sound effects with no issues, however.
-```
 
 ## Building Requirements
 
